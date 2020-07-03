@@ -13,7 +13,7 @@ sections:
         url: /features
   - section_id: features
     type: section_features
-    background: white
+    background: gray
     title: Features
     subtitle: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
